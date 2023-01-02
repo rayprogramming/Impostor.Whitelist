@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2bD/gjwk+NqqD+PEOCaGZQ9aAleQfx6rfkjKArY5d5fSJ9Uj38zFZLQeQ0rmrEogYz3ZfpogufPVVsHtlbB/A==",
+  "success": true,
+  "projectFilePath": "/home/james/Code/github/rayprogramming/Impostor.Whitelist/Impostor.Whitelist/Impostor.Whitelist.csproj",
+  "expectedPackageFiles": [
+    "/home/james/.nuget/packages/dotnetutils/1.0.1.1/dotnetutils.1.0.1.1.nupkg.sha512",
+    "/home/james/.nuget/packages/impostor.hazel/1.0.0/impostor.hazel.1.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/impostor.hazel.abstractions/1.0.0/impostor.hazel.abstractions.1.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.binder/7.0.1/microsoft.extensions.configuration.binder.7.0.1.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.commandline/7.0.0/microsoft.extensions.configuration.commandline.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.environmentvariables/7.0.0/microsoft.extensions.configuration.environmentvariables.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.configuration.usersecrets/7.0.0/microsoft.extensions.configuration.usersecrets.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.dependencymodel/3.0.0/microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.hosting/7.0.0/microsoft.extensions.hosting.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.hosting.abstractions/7.0.0/microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.configuration/7.0.0/microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.console/7.0.0/microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.eventlog/7.0.0/microsoft.extensions.logging.eventlog.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.logging.eventsource/7.0.0/microsoft.extensions.logging.eventsource.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.objectpool/7.0.1/microsoft.extensions.objectpool.7.0.1.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/serilog/2.12.0/serilog.2.12.0.nupkg.sha512",
+    "/home/james/.nuget/packages/serilog.extensions.hosting/5.0.1/serilog.extensions.hosting.5.0.1.nupkg.sha512",
+    "/home/james/.nuget/packages/serilog.extensions.logging/3.1.0/serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "/home/james/.nuget/packages/serilog.settings.configuration/3.4.0/serilog.settings.configuration.3.4.0.nupkg.sha512",
+    "/home/james/.nuget/packages/serilog.sinks.console/4.1.0/serilog.sinks.console.4.1.0.nupkg.sha512",
+    "/home/james/.nuget/packages/sonaranalyzer.csharp/8.43.0.51858/sonaranalyzer.csharp.8.43.0.51858.nupkg.sha512",
+    "/home/james/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/home/james/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/home/james/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/james/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DotNetUtils 1.0.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DotNetUtils",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
